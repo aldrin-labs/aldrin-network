@@ -1,4 +1,4 @@
-# Aldrin Network: High-Performance DEX Virtual Machine
+# Aldrin Network: zk-defi SVM
 
 ## Overview
 
